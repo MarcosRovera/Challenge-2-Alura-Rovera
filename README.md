@@ -28,6 +28,8 @@ El objetivo de este proyecto es analizar los factores que influyen en la cancela
 **Durante el análisis se exploraron diferentes aspectos de los datos:**
 
 **Distribución general de Churn: Se evaluó la proporción de clientes que cancelaron, permanecieron y aquellos con estado desconocido.**
+<img width="656" height="450" alt="image" src="https://github.com/user-attachments/assets/ea180d41-bd03-428b-8ead-e6bcffdb705b" />
+
 
 *Churn según variables categóricas:*
 
